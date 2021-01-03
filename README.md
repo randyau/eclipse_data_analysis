@@ -39,5 +39,6 @@ Partial eclipses count, though penumbral (where the moon is only slightly darken
 * Visibility - str - visible / not_visible
 * Altitude - float - how high in the sky the eclipse will be
 * Date - str - yyyy-mm-dd format date of the eclipse
+* TDB - float - Barycentric Dynamical Time - effectively Julian calendar date for us laymen
 * Eclipse type - str - Total / Partial / Penumbral
 
