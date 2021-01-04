@@ -6,9 +6,8 @@ It will download the file once and use a local copy.
 
 # Requirements
 
-Pip3 install the folllowing packages:
- 
-* skyfield
+* skyfield via pip [Github](https://github.com/skyfielders/python-skyfield)
+* Numpy
 
 ### Can we predict eclipses like ancient people do?
 
