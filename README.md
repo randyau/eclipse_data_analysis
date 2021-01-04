@@ -4,7 +4,7 @@
 it is a *146MB* hunk of data giving the position of celestial bodies over time.
 It will download the file once and use a local copy.
 
-#Requirements
+# Requirements
 
 Pip3 install the folllowing packages:
  
@@ -41,4 +41,8 @@ Partial eclipses count, though penumbral (where the moon is only slightly darken
 * Date - str - yyyy-mm-dd format date of the eclipse
 * TDB - float - Barycentric Dynamical Time - effectively Julian calendar date for us laymen
 * Eclipse type - str - Total / Partial / Penumbral
+
+# License
+
+MIT license
 
